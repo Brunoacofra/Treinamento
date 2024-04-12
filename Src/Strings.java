@@ -5,11 +5,13 @@ public class Strings {
         String texto = "Este é um texto simples";
         System.out.println("Esse é o texto da variavel "+texto);
         var teste = "Sim";
-
+        var n = 1;
         if (teste.equals("Sim")) {
             System.out.println("Sim");
-        } else {
-            System.out.println("Não");
+        }
+
+        if (n ==1){
+            System.out.println("Certo");
         }
     }
 }
