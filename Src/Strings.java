@@ -9,9 +9,5 @@ public class Strings {
         if (teste.equals("Sim")) {
             System.out.println("Sim");
         }
-
-        if (n ==1){
-            System.out.println("Certo");
-        }
     }
 }
